@@ -1,9 +1,0 @@
-.details {
-  &__place {
-    margin-bottom: 40px;
-
-    @include onMiddleScreen {
-      margin-bottom: 48px;
-    }
-  }
-}
